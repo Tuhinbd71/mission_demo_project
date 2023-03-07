@@ -30,10 +30,33 @@ body {
 
 .half_width {
     width: 100%;
-    padding: 10%;
+    padding: 7%;
 
 }
 
 .half_width img {
     width: 100%;
+}
+
+.mission_section {
+    display: flex;
+
+}
+
+.mission_pic {
+    width: 50%;
+}
+
+.second_section {
+    background-color: rgb(235, 172, 149);
+    width: 100%;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.my_mission_area {
+    color: crimson;
+    text-align: center;
+    font-size: xx-large;
 }
