@@ -1,5 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 50px;
+    padding: 50px;
 }
 
 body {
@@ -50,7 +52,7 @@ body {
 .second_section {
     background-color: rgb(235, 172, 149);
     width: 100%;
-    margin: 15px;
+    margin: 25px;
     padding: 15px;
     border-radius: 5px;
 }
