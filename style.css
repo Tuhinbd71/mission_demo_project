@@ -1,3 +1,39 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+body {
+    background-color: rgb(233, 226, 230);
+}
+
+.top_section {
+    display: flex;
+
+}
+
+.top_hadding {
+    color: darkgreen;
+}
+
+.missiom_top {
+    color: tomato;
+}
+
+.click_button {
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 7px;
+    text-decoration: none;
+    font-size: x-large;
+    color: black;
+}
+
+.half_width {
+    width: 100%;
+    padding: 10%;
+
+}
+
+.half_width img {
+    width: 100%;
+}
