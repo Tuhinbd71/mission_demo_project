@@ -1,16 +1,18 @@
 .body_section {
     background-color: aliceblue;
-    padding: 10px;
+
 }
 
 .header_section {
-    background-color: rgb(243, 223, 209);
-    color: blue;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 30px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: grey;
+    color: white;
     text-align: center;
-    border-radius: 5px;
 }
 
 body {
@@ -58,6 +60,9 @@ body {
 
 .mission_section {
     display: flex;
+    margin-left: 60PX;
+    margin-right: 60PX;
+
 
 }
 
@@ -93,5 +98,16 @@ body {
 
 .corona_heading {
     color: red;
+
+}
+
+.footer_section {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
 
 }
