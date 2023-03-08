@@ -1,8 +1,13 @@
-.body_section {}
-
-background-color: rgb(233, 207, 207);
+.body_section {
+    background-color: aliceblue;
+    padding: 10px;
+}
 
 .header_section {
+    background-color: rgb(243, 223, 209);
+    color: blue;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 30px;
     text-align: center;
     border-radius: 5px;
