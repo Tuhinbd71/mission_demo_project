@@ -87,4 +87,11 @@ body {
 .corona_section {
     color: darkred;
     font-size: xx-large;
+    text-align: center;
+
+}
+
+.corona_heading {
+    color: red;
+
 }
