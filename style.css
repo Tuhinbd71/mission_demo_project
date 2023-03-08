@@ -63,6 +63,7 @@ body {
     margin: 25px;
     padding: 15px;
     border-radius: 5px;
+    box-shadow: 5px 5px hotpink;
 }
 
 .my_mission_area {
