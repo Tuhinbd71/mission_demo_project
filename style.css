@@ -106,8 +106,8 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
-    color: white;
+    background-color: rgb(241, 239, 239);
+    color: rgb(7, 6, 6);
     text-align: center;
 
 }
